@@ -1,3 +1,7 @@
+**THIS PROGRAM ASSUMES THAT YOU HAVE TYPICAL PANTRY ITEMS LIKE: WATER, SALT, AND FLOUR**
+
+Recipes for the ingredients: ['cheese', 'chicken', 'corn', 'rice']
+
 White Chocolate Goat Cheese Frosting: 1 missed ingredients
 Buffalo Chicken Wings Wonton Wraps: 2 missed ingredients
 Green Chili Cheddar Dip (Guest Post): 2 missed ingredients

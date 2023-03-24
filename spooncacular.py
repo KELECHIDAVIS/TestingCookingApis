@@ -29,6 +29,10 @@ textFile = open("recipesInTextFormat.txt" , 'w')
 print("**THIS PROGRAM ASSUMES THAT YOU HAVE TYPICAL PANTRY ITEMS LIKE: WATER, SALT, AND FLOUR**\n")
 
 print("Recipes for the ingredients: {}".format(ingredients.split(',')))
+
+textFile.write("**THIS PROGRAM ASSUMES THAT YOU HAVE TYPICAL PANTRY ITEMS LIKE: WATER, SALT, AND FLOUR**\n\n")
+
+textFile.write("Recipes for the ingredients: {}\n\n".format(ingredients.split(',')))
 print()
 if response.status_code == 200:
     recipes = response.json()
